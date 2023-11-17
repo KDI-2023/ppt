@@ -1,0 +1,11 @@
+.vscode/
+
+# archive
+*.tar
+*.gz
+*.tgz
+*.rar
+*.zip
+*.7z
+
+*.pdf
